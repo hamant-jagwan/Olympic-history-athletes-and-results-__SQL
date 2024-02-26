@@ -13,23 +13,23 @@ It's essential to note that the Winter and Summer Games were held in the same ye
 
 ## Dataset
 ### Olympic history (Table- 1)
-    ID - Unique number for each athlete
-    Name - Athlete's name
-    Sex - M or F
-    Age - Integer
+    ID -     Unique number for each athlete
+    Name -   Athlete's name
+    Sex -    M or F
+    Age -    Integer
     Height - In centimeters
     Weight - In kilograms
-    Team - Team name
-    NOC - National Olympic Committee 3-letter code
-    Games - Year and season
-    Year - Integer
+    Team -   Team name
+    NOC -    National Olympic Committee 3-letter code
+    Games -  Year and season
+    Year -   Integer
     Season - Summer or Winter
-    City - Host city
-    Sport - Sport
-    Event - Event
-    Medal - Gold, Silver, Bronze, or NA
-### Olympic_history (Table- 2)
-    NOC - National Olympic Committee 3-letter code
+    City -   Host city
+    Sport -  Sport
+    Event -  Event
+    Medal -  Gold, Silver, Bronze, or NA
+### Olympic_history_noc_regions (Table- 2)
+    NOC   -  National Olympic Committee 3-letter code
     region - Country name (matches with regions)
     Notes
 ## Tool and Concept 
