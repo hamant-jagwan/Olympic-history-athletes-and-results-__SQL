@@ -36,9 +36,12 @@ It's essential to note that the Winter and Summer Games were held in the same ye
 ![Screenshot 2024-02-26 170739](https://github.com/hamant-jagwan/Olympic_history_athletes_and_results--SQL/assets/117731315/36eb9702-9a0e-4ba1-88d6-0f13e850bc97)
 
 ## Tool and Concept 
-**Tool** - *PostgreSQL*
+**Tool** - ***PostgreSQL***
 
-**Concept** - 1. Joins, 2. Subquery, 3. Common Table Expressions (CTE), 4. Window Functions, 5. Pivot Tables (CrossTab)
+![PostgreSQL600x340](https://github.com/hamant-jagwan/Olympic_history_athletes_and_results--SQL/assets/117731315/308cd0da-cf40-45af-a2bb-db0ebe01b70d) 
+
+
+***Concept*** - 1. **Joins**  2. **Subquery**  3. **Common Table Expressions (CTE)**  4.**Window Functions**  5. **Pivot Tables (CrossTab)**
 
 ## Analysis Questions
 1.  How many olympics games have been held?
@@ -61,3 +64,7 @@ It's essential to note that the Winter and Summer Games were held in the same ye
 18. Which countries have never won gold medal but have won silver/bronze medals?
 19. In which Sport/event, India has won highest medals.
 20. Break down all olympic games where india won medal for Hockey and how many medals in each olympic games.
+
+## Conclusion
+ the comprehensive analysis of Olympic history data offers valuable insights into the evolution and dynamics of the games over time. 
+ With a focus on participation trends, sport popularity, individual achievements, and country performances, this data provides a solid foundation for further visualization and in-depth analysis.
