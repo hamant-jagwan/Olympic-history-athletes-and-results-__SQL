@@ -11,7 +11,10 @@ The data was scraped using R code, which is available in the repository under sc
 #### Important Note
 It's essential to note that the Winter and Summer Games were held in the same year until 1992. After 1992, they were staggered, with the Winter Games occurring on a four-year cycle starting in 1994, followed by the Summer Games in 1996, and so on. This distinction is crucial for accurate analysis of the data.
 
-## Dataset
+## Dataset 
+### Dataset link - Kaggle
+https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results
+
 ### Olympic history (Table- 1)
     ID -     Unique number for each athlete
     Name -   Athlete's name
