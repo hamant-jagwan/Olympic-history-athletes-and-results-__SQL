@@ -69,5 +69,5 @@ https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-a
 20. Break down all olympic games where india won medal for Hockey and how many medals in each olympic games.
 
 ## Conclusion
- the comprehensive analysis of Olympic history data offers valuable insights into the evolution and dynamics of the games over time. 
+ The comprehensive analysis of Olympic history data offers valuable insights into the evolution and dynamics of the games over time. 
  With a focus on participation trends, sport popularity, individual achievements, and country performances, this data provides a solid foundation for further visualization and in-depth analysis.
